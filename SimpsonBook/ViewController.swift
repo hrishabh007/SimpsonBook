@@ -58,6 +58,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
     if segue.identifier == "toDetailsVC" {
+    //send data to another viewmodel
       let destinatuionVC = segue.destination as! DetailViewController
       destinatuionVC.selectedSimpson = chosensimpson
     }

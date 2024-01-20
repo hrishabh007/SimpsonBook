@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1DE4A3A9-8A84-41A9-B3E7-DAB3D999250D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A63817D6-BFAF-4ED9-BD9E-F7E8F303F655"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpsonBook/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABFD8FE8-0399-47D7-857C-2DD29A006869"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpsonBook/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DF42818-9E75-455F-9D59-582EA3DDA32F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpsonBook/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1472506B-A248-4600-8729-C09B054C7369"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpsonBook/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1472506B-A248-4600-8729-C09B054C7369 - 758792482cd3688d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpsonBook.DetailViewController.selectedSimpson.getter : Swift.Optional&lt;SimpsonBook.Simpson&gt;"
+                  moduleName = "SimpsonBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabhbalani/Desktop/iosudemy/SimpsonBook/SimpsonBook/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1472506B-A248-4600-8729-C09B054C7369 - 8e84b563ca7d62a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpsonBook.DetailViewController.selectedSimpson.setter : Swift.Optional&lt;SimpsonBook.Simpson&gt;"
+                  moduleName = "SimpsonBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabhbalani/Desktop/iosudemy/SimpsonBook/SimpsonBook/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1472506B-A248-4600-8729-C09B054C7369 - 8c50e9f213adfdb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpsonBook.DetailViewController.selectedSimpson.modify : Swift.Optional&lt;SimpsonBook.Simpson&gt;"
+                  moduleName = "SimpsonBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabhbalani/Desktop/iosudemy/SimpsonBook/SimpsonBook/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1472506B-A248-4600-8729-C09B054C7369 - 7feeafa456b93449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpsonBook.DetailViewController.selectedSimpson.modify : Swift.Optional&lt;SimpsonBook.Simpson&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SimpsonBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabhbalani/Desktop/iosudemy/SimpsonBook/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1472506B-A248-4600-8729-C09B054C7369 - 2378c767990339c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpsonBook.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SimpsonBook.DetailViewController"
+                  moduleName = "SimpsonBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabhbalani/Desktop/iosudemy/SimpsonBook/SimpsonBook/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "1472506B-A248-4600-8729-C09B054C7369 - 92d287cce5d12b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpsonBook.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SimpsonBook.DetailViewController&gt;"
+                  moduleName = "SimpsonBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabhbalani/Desktop/iosudemy/SimpsonBook/SimpsonBook/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
